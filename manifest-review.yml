@@ -4,5 +4,5 @@ applications:
   path: src/PalTracker/bin/Release/netcoreapp2.0/publish/
   host: gp-pal-tracker-review
     services:
-  - tracker-database
+    - tracker-database
   
